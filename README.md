@@ -5,3 +5,9 @@ Our goal was to make an interface using micro-bits that would detect if you are 
 We used two micro-bits to collect accelerometer data.
 
 In order to represent good posture we used a processing 
+
+
+
+
+# Link: 
+https://youtu.be/eVrJvut9i6Y
